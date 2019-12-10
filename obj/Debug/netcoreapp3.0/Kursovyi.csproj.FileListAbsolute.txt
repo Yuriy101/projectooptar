@@ -1,0 +1,11 @@
+C:\Users\surf\Desktop\study\Kursovyi\bin\Debug\netcoreapp3.0\Kursovyi.exe
+C:\Users\surf\Desktop\study\Kursovyi\bin\Debug\netcoreapp3.0\Kursovyi.deps.json
+C:\Users\surf\Desktop\study\Kursovyi\bin\Debug\netcoreapp3.0\Kursovyi.runtimeconfig.json
+C:\Users\surf\Desktop\study\Kursovyi\bin\Debug\netcoreapp3.0\Kursovyi.runtimeconfig.dev.json
+C:\Users\surf\Desktop\study\Kursovyi\bin\Debug\netcoreapp3.0\Kursovyi.dll
+C:\Users\surf\Desktop\study\Kursovyi\bin\Debug\netcoreapp3.0\Kursovyi.pdb
+C:\Users\surf\Desktop\study\Kursovyi\obj\Debug\netcoreapp3.0\Kursovyi.csprojAssemblyReference.cache
+C:\Users\surf\Desktop\study\Kursovyi\obj\Debug\netcoreapp3.0\Kursovyi.AssemblyInfoInputs.cache
+C:\Users\surf\Desktop\study\Kursovyi\obj\Debug\netcoreapp3.0\Kursovyi.AssemblyInfo.cs
+C:\Users\surf\Desktop\study\Kursovyi\obj\Debug\netcoreapp3.0\Kursovyi.dll
+C:\Users\surf\Desktop\study\Kursovyi\obj\Debug\netcoreapp3.0\Kursovyi.pdb
